@@ -52,160 +52,143 @@ html {
 	animation: fade-in 1000ms 0ms ease 1 both;
 }
 
-#el_I127253751625 {
-	top: 345px;
+#el_I127253761865 {
+	top: 0px;
 	left: 0px;
 	z-index: 2;
 	mix-blend-mode: normal;
 }
 
-#img_I127253751625 {
+#img_I127253761865 {
 	width: 190px;
-	height: 255px;
+	height: 600px;
 }
 
-#img_I127253751625.bnfy-enter {
+#img_I127253761865.bnfy-enter {
 	-webkit-animation: custom-slide 15000ms 0ms ease 1 both;
 	animation: custom-slide 15000ms 0ms ease 1 both;
 }
 
-#el_I127253751626 {
-	top: 270px;
-	left: 0px;
-	z-index: 3;
-	mix-blend-mode: normal;
-}
-
-#img_I127253751626 {
-	width: 160px;
-	height: 101px;
-}
-
-#img_I127253751626.bnfy-enter {
-	-webkit-animation: none 1000ms 0ms ease 1 both;
-	animation: none 1000ms 0ms ease 1 both;
-}
-
-#el_I127253751628 {
-	top: 417px;
+#el_I127253761866 {
+	top: 321px;
 	left: 22px;
-	z-index: 4;
+	z-index: 3;
 	mix-blend-mode: overlay;
 }
 
-#img_I127253751628 {
-	width: 191px;
-	height: 191px;
+#img_I127253761866 {
+	width: 299px;
+	height: 299px;
 }
 
-#img_I127253751628.bnfy-enter {
+#img_I127253761866.bnfy-enter {
 	-webkit-animation: custom-rotate 15000ms 0ms ease 1 both;
 	animation: custom-rotate 15000ms 0ms ease 1 both;
 }
 
-#el_I127253751630 {
-	top: 69.89999389648438px;
+#el_I127253761868 {
+	top: 50px;
+	left: 0px;
+	z-index: 4;
+	mix-blend-mode: normal;
+}
+
+#img_I127253761868 {
+	width: 160px;
+	height: 284px;
+}
+
+#img_I127253761868.bnfy-enter {
+	-webkit-animation: fade-in 1000ms 0ms ease 1 both;
+	animation: fade-in 1000ms 0ms ease 1 both;
+}
+
+#el_I127253761869 {
+	top: 79.89999389648438px;
 	left: 10.02301025390625px;
 	z-index: 5;
 	mix-blend-mode: normal;
 }
 
-#img_I127253751630 {
+#img_I127253761869 {
 	width: 136px;
 	height: 74px;
 }
 
-#img_I127253751630.bnfy-enter {
+#img_I127253761869.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 500ms ease 1 both;
 	animation: fade-in 1000ms 500ms ease 1 both;
 }
 
-#el_I127253751631 {
-	top: 163.8000030517578px;
+#el_I127253761870 {
+	top: 173.8000030517578px;
 	left: 10.2239990234375px;
 	z-index: 6;
 	mix-blend-mode: normal;
 }
 
-#img_I127253751631 {
+#img_I127253761870 {
 	width: 130px;
 	height: 79px;
 }
 
-#img_I127253751631.bnfy-enter {
+#img_I127253761870.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 700ms ease 1 both;
 	animation: fade-in 1000ms 700ms ease 1 both;
 }
 
-#el_I127253751632 {
-	top: 256px;
+#el_I127253761871 {
+	top: 266px;
 	left: 10px;
 	z-index: 7;
 	mix-blend-mode: normal;
 }
 
-#img_I127253751632 {
+#img_I127253761871 {
 	width: 140px;
 	height: 24px;
 }
 
-#img_I127253751632.bnfy-enter {
+#img_I127253761871.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 1000ms ease 1 both, simple-hide 0ms 9000ms both;
 	animation: fade-in 1000ms 1000ms ease 1 both, simple-hide 0ms 9000ms both;
 }
 
-#img_I127253751632.bnfy-exit {
+#img_I127253761871.bnfy-exit {
 	-webkit-animation: pulsate-fwd 1000ms 9000ms ease 1 both, simple-show 0ms 9000ms both;
 	animation: pulsate-fwd 1000ms 9000ms ease 1 both, simple-show 0ms 9000ms both;
 }
 
-#el_I127253751775 {
-	top: 290px;
+#el_I127253762000 {
+	top: 300px;
 	left: 10px;
 	z-index: 8;
 	mix-blend-mode: normal;
 }
 
-#img_I127253751775 {
+#img_I127253762000 {
 	width: 108px;
 	height: 22px;
 }
 
-#img_I127253751775.bnfy-enter {
+#img_I127253762000.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 0ms ease 1 both;
 	animation: fade-in 1000ms 0ms ease 1 both;
 }
 
-#el_I127253751634 {
-	top: 0px;
-	left: 0px;
+#el_I127253761873 {
+	top: 15px;
+	left: 23px;
 	z-index: 9;
 	mix-blend-mode: normal;
 }
 
-#img_I127253751634 {
-	width: 160px;
-	height: 44px;
+#img_I127253761873 {
+	width: 115px;
+	height: 16px;
 }
 
-#img_I127253751634.bnfy-enter {
-	-webkit-animation: fade-in-left 500ms 0ms ease 1 both;
-	animation: fade-in-left 500ms 0ms ease 1 both;
-}
-
-#el_I127253751635 {
-	top: 15px;
-	left: 27.5px;
-	z-index: 10;
-	mix-blend-mode: normal;
-}
-
-#img_I127253751635 {
-	width: 106px;
-	height: 14px;
-}
-
-#img_I127253751635.bnfy-enter {
+#img_I127253761873.bnfy-enter {
 	-webkit-animation: fade-in-left 500ms 100ms ease 1 both;
 	animation: fade-in-left 500ms 100ms ease 1 both;
 }
@@ -213,7 +196,7 @@ html {
 #el_I13467302177 {
 	top: 0px;
 	left: 0px;
-	z-index: 11;
+	z-index: 10;
 	mix-blend-mode: normal;
 }
 
@@ -235,7 +218,7 @@ html {
 #el_I13467302178 {
 	top: 264px;
 	left: 16px;
-	z-index: 12;
+	z-index: 11;
 	mix-blend-mode: normal;
 }
 
@@ -257,7 +240,7 @@ html {
 #el_I13467302179 {
 	top: 307px;
 	left: 8.5px;
-	z-index: 13;
+	z-index: 12;
 	mix-blend-mode: normal;
 }
 

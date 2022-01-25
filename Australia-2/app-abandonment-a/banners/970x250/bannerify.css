@@ -52,160 +52,143 @@ html {
 	animation: fade-in 1000ms 0ms ease 1 both;
 }
 
-#el_I127973751651 {
+#el_I127973761885 {
 	top: 0px;
-	left: 585px;
+	left: 0px;
 	z-index: 2;
 	mix-blend-mode: normal;
 }
 
-#img_I127973751651 {
-	width: 415px;
+#img_I127973761885 {
+	width: 1000px;
 	height: 250px;
 }
 
-#img_I127973751651.bnfy-enter {
+#img_I127973761885.bnfy-enter {
 	-webkit-animation: custom-slide 15000ms 0ms ease 1 both;
 	animation: custom-slide 15000ms 0ms ease 1 both;
 }
 
-#el_I127973751652 {
-	top: 0px;
-	left: 414px;
+#el_I127973761886 {
+	top: 59px;
+	left: 0px;
 	z-index: 3;
 	mix-blend-mode: normal;
 }
 
-#img_I127973751652 {
-	width: 195px;
-	height: 250px;
+#img_I127973761886 {
+	width: 585px;
+	height: 191px;
 }
 
-#img_I127973751652.bnfy-enter {
-	-webkit-animation: none 1000ms 0ms ease 1 both;
-	animation: none 1000ms 0ms ease 1 both;
+#img_I127973761886.bnfy-enter {
+	-webkit-animation: fade-in 1000ms 0ms ease 1 both;
+	animation: fade-in 1000ms 0ms ease 1 both;
 }
 
-#el_I127973751653 {
+#el_I127973761887 {
 	top: 230px;
 	left: 0px;
 	z-index: 4;
 	mix-blend-mode: normal;
 }
 
-#img_I127973751653 {
+#img_I127973761887 {
 	width: 128px;
 	height: 20px;
 }
 
-#img_I127973751653.bnfy-enter {
+#img_I127973761887.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 0ms ease 1 both;
 	animation: fade-in 1000ms 0ms ease 1 both;
 }
 
-#el_I127973751654 {
-	top: 0px;
-	left: 731px;
+#el_I127973761888 {
+	top: -144px;
+	left: 713px;
 	z-index: 5;
 	mix-blend-mode: overlay;
 }
 
-#img_I127973751654 {
+#img_I127973761888 {
 	width: 347px;
 	height: 347px;
 }
 
-#img_I127973751654.bnfy-enter {
+#img_I127973761888.bnfy-enter {
 	-webkit-animation: custom-rotate 15000ms 0ms ease 1 both;
 	animation: custom-rotate 15000ms 0ms ease 1 both;
 }
 
-#el_I127973751656 {
+#el_I127973761890 {
 	top: 85.5px;
-	left: 25.360000610351562px;
+	left: 20.360000610351562px;
 	z-index: 6;
 	mix-blend-mode: normal;
 }
 
-#img_I127973751656 {
+#img_I127973761890 {
 	width: 273px;
 	height: 33px;
 }
 
-#img_I127973751656.bnfy-enter {
+#img_I127973761890.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 500ms ease 1 both;
 	animation: fade-in 1000ms 500ms ease 1 both;
 }
 
-#el_I127973751657 {
+#el_I127973761891 {
 	top: 145.60000610351562px;
-	left: 26.583999633789062px;
+	left: 21.583999633789062px;
 	z-index: 7;
 	mix-blend-mode: normal;
 }
 
-#img_I127973751657 {
+#img_I127973761891 {
 	width: 513px;
 	height: 21px;
 }
 
-#img_I127973751657.bnfy-enter {
+#img_I127973761891.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 700ms ease 1 both;
 	animation: fade-in 1000ms 700ms ease 1 both;
 }
 
-#el_I127973751658 {
+#el_I127973761892 {
 	top: 179px;
-	left: 25px;
+	left: 20px;
 	z-index: 8;
 	mix-blend-mode: normal;
 }
 
-#img_I127973751658 {
+#img_I127973761892 {
 	width: 212px;
 	height: 30px;
 }
 
-#img_I127973751658.bnfy-enter {
+#img_I127973761892.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 1000ms ease 1 both, simple-hide 0ms 9000ms both;
 	animation: fade-in 1000ms 1000ms ease 1 both, simple-hide 0ms 9000ms both;
 }
 
-#img_I127973751658.bnfy-exit {
+#img_I127973761892.bnfy-exit {
 	-webkit-animation: pulsate-fwd 1000ms 9000ms ease 1 both, simple-show 0ms 9000ms both;
 	animation: pulsate-fwd 1000ms 9000ms ease 1 both, simple-show 0ms 9000ms both;
 }
 
-#el_I127973751660 {
-	top: 0px;
-	left: 0px;
+#el_I127973761894 {
+	top: 20px;
+	left: 25px;
 	z-index: 9;
 	mix-blend-mode: normal;
 }
 
-#img_I127973751660 {
-	width: 200px;
-	height: 60px;
-}
-
-#img_I127973751660.bnfy-enter {
-	-webkit-animation: fade-in-left 500ms 0ms ease 1 both;
-	animation: fade-in-left 500ms 0ms ease 1 both;
-}
-
-#el_I127973751661 {
-	top: 20px;
-	left: 25px;
-	z-index: 10;
-	mix-blend-mode: normal;
-}
-
-#img_I127973751661 {
+#img_I127973761894 {
 	width: 150px;
 	height: 20px;
 }
 
-#img_I127973751661.bnfy-enter {
+#img_I127973761894.bnfy-enter {
 	-webkit-animation: fade-in-left 500ms 100ms ease 1 both;
 	animation: fade-in-left 500ms 100ms ease 1 both;
 }
@@ -213,7 +196,7 @@ html {
 #el_I13505302143 {
 	top: 0px;
 	left: 0px;
-	z-index: 11;
+	z-index: 10;
 	mix-blend-mode: normal;
 }
 
@@ -235,7 +218,7 @@ html {
 #el_I13505302144 {
 	top: 109px;
 	left: 222px;
-	z-index: 12;
+	z-index: 11;
 	mix-blend-mode: normal;
 }
 
@@ -257,7 +240,7 @@ html {
 #el_I13505302145 {
 	top: 105px;
 	left: 521px;
-	z-index: 13;
+	z-index: 12;
 	mix-blend-mode: normal;
 }
 

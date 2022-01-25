@@ -20,12 +20,12 @@
 		}
 	}
 	
-	onImagesLoaded(document.getElementById("b_102369"), function() {
-		var elements = document.getElementById("b_102369").getElementsByClassName('js-bnfy');
+	onImagesLoaded(document.getElementById("b_4131421"), function() {
+		var elements = document.getElementById("b_4131421").getElementsByClassName('js-bnfy');
 		for (var i=0; i < elements.length; i++) {
 			elements[i].style.display = 'block';
 		}
 	});
-	document.getElementById('b_102369').addEventListener('click', function () {
+	document.getElementById('b_4131421').addEventListener('click', function () {
 		window.open(window.clickTag);
 	});})();
