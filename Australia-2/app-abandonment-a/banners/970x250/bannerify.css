@@ -35,160 +35,177 @@ html {
 	margin: 0;
 }
 
-#el_12797 {
+#el_334889 {
 	top: 0px;
 	left: 0px;
 	z-index: 1;
 	mix-blend-mode: normal;
 }
 
-#img_12797 {
+#img_334889 {
 	width: 970px;
 	height: 250px;
 }
 
-#img_12797.bnfy-enter {
+#img_334889.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 0ms ease 1 both;
 	animation: fade-in 1000ms 0ms ease 1 both;
 }
 
-#el_I127973761885 {
+#el_334890 {
 	top: 0px;
 	left: 0px;
 	z-index: 2;
 	mix-blend-mode: normal;
 }
 
-#img_I127973761885 {
+#img_334890 {
 	width: 1000px;
 	height: 250px;
 }
 
-#img_I127973761885.bnfy-enter {
+#img_334890.bnfy-enter {
 	-webkit-animation: custom-slide 15000ms 0ms ease 1 both;
 	animation: custom-slide 15000ms 0ms ease 1 both;
 }
 
-#el_I127973761886 {
-	top: 59px;
+#el_334886 {
+	top: 0px;
 	left: 0px;
 	z-index: 3;
 	mix-blend-mode: normal;
 }
 
-#img_I127973761886 {
-	width: 585px;
-	height: 191px;
+#img_334886 {
+	width: 507px;
+	height: 222px;
 }
 
-#img_I127973761886.bnfy-enter {
+#img_334886.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 0ms ease 1 both;
 	animation: fade-in 1000ms 0ms ease 1 both;
 }
 
-#el_I127973761887 {
-	top: 230px;
+#el_334891 {
+	top: 59px;
 	left: 0px;
 	z-index: 4;
 	mix-blend-mode: normal;
 }
 
-#img_I127973761887 {
-	width: 128px;
-	height: 20px;
+#img_334891 {
+	width: 585px;
+	height: 191px;
 }
 
-#img_I127973761887.bnfy-enter {
+#img_334891.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 0ms ease 1 both;
 	animation: fade-in 1000ms 0ms ease 1 both;
 }
 
-#el_I127973761888 {
+#el_334892 {
+	top: 230px;
+	left: 0px;
+	z-index: 5;
+	mix-blend-mode: normal;
+}
+
+#img_334892 {
+	width: 125px;
+	height: 20px;
+}
+
+#img_334892.bnfy-enter {
+	-webkit-animation: fade-in 1000ms 0ms ease 1 both;
+	animation: fade-in 1000ms 0ms ease 1 both;
+}
+
+#el_334893 {
 	top: -144px;
 	left: 713px;
-	z-index: 5;
+	z-index: 6;
 	mix-blend-mode: overlay;
 }
 
-#img_I127973761888 {
+#img_334893 {
 	width: 347px;
 	height: 347px;
 }
 
-#img_I127973761888.bnfy-enter {
+#img_334893.bnfy-enter {
 	-webkit-animation: custom-rotate 15000ms 0ms ease 1 both;
 	animation: custom-rotate 15000ms 0ms ease 1 both;
 }
 
-#el_I127973761890 {
+#el_334895 {
 	top: 85.5px;
 	left: 20.360000610351562px;
-	z-index: 6;
-	mix-blend-mode: normal;
-}
-
-#img_I127973761890 {
-	width: 273px;
-	height: 33px;
-}
-
-#img_I127973761890.bnfy-enter {
-	-webkit-animation: fade-in 1000ms 500ms ease 1 both;
-	animation: fade-in 1000ms 500ms ease 1 both;
-}
-
-#el_I127973761891 {
-	top: 145.60000610351562px;
-	left: 21.583999633789062px;
 	z-index: 7;
 	mix-blend-mode: normal;
 }
 
-#img_I127973761891 {
-	width: 513px;
-	height: 21px;
+#img_334895 {
+	width: 273px;
+	height: 33px;
 }
 
-#img_I127973761891.bnfy-enter {
-	-webkit-animation: fade-in 1000ms 700ms ease 1 both;
-	animation: fade-in 1000ms 700ms ease 1 both;
+#img_334895.bnfy-enter {
+	-webkit-animation: fade-in 1000ms 500ms ease 1 both;
+	animation: fade-in 1000ms 500ms ease 1 both;
 }
 
-#el_I127973761892 {
-	top: 179px;
-	left: 20px;
+#el_334896 {
+	top: 145.60000610351562px;
+	left: 21.583999633789062px;
 	z-index: 8;
 	mix-blend-mode: normal;
 }
 
-#img_I127973761892 {
-	width: 212px;
-	height: 30px;
+#img_334896 {
+	width: 513px;
+	height: 21px;
 }
 
-#img_I127973761892.bnfy-enter {
-	-webkit-animation: fade-in 1000ms 1000ms ease 1 both, simple-hide 0ms 9000ms both;
-	animation: fade-in 1000ms 1000ms ease 1 both, simple-hide 0ms 9000ms both;
+#img_334896.bnfy-enter {
+	-webkit-animation: fade-in 1000ms 700ms ease 1 both;
+	animation: fade-in 1000ms 700ms ease 1 both;
 }
 
-#img_I127973761892.bnfy-exit {
-	-webkit-animation: pulsate-fwd 1000ms 9000ms ease 1 both, simple-show 0ms 9000ms both;
-	animation: pulsate-fwd 1000ms 9000ms ease 1 both, simple-show 0ms 9000ms both;
-}
-
-#el_I127973761894 {
-	top: 20px;
-	left: 25px;
+#el_334897 {
+	top: 179px;
+	left: 20px;
 	z-index: 9;
 	mix-blend-mode: normal;
 }
 
-#img_I127973761894 {
+#img_334897 {
+	width: 212px;
+	height: 30px;
+}
+
+#img_334897.bnfy-enter {
+	-webkit-animation: fade-in 1000ms 1000ms ease 1 both, simple-hide 0ms 9000ms both;
+	animation: fade-in 1000ms 1000ms ease 1 both, simple-hide 0ms 9000ms both;
+}
+
+#img_334897.bnfy-exit {
+	-webkit-animation: pulsate-fwd 1000ms 9000ms ease 1 both, simple-show 0ms 9000ms both;
+	animation: pulsate-fwd 1000ms 9000ms ease 1 both, simple-show 0ms 9000ms both;
+}
+
+#el_334899 {
+	top: 20px;
+	left: 25px;
+	z-index: 10;
+	mix-blend-mode: normal;
+}
+
+#img_334899 {
 	width: 150px;
 	height: 20px;
 }
 
-#img_I127973761894.bnfy-enter {
+#img_334899.bnfy-enter {
 	-webkit-animation: fade-in-left 500ms 100ms ease 1 both;
 	animation: fade-in-left 500ms 100ms ease 1 both;
 }
@@ -196,7 +213,7 @@ html {
 #el_I13505302143 {
 	top: 0px;
 	left: 0px;
-	z-index: 10;
+	z-index: 11;
 	mix-blend-mode: normal;
 }
 
@@ -218,7 +235,7 @@ html {
 #el_I13505302144 {
 	top: 109px;
 	left: 222px;
-	z-index: 11;
+	z-index: 12;
 	mix-blend-mode: normal;
 }
 
@@ -240,7 +257,7 @@ html {
 #el_I13505302145 {
 	top: 105px;
 	left: 521px;
-	z-index: 12;
+	z-index: 13;
 	mix-blend-mode: normal;
 }
 

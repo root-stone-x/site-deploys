@@ -52,160 +52,143 @@ html {
 	animation: fade-in 1000ms 0ms ease 1 both;
 }
 
-#el_I27215133751575 {
-	top: 230px;
+#el_I27215133761823 {
+	top: 0px;
 	left: 0px;
 	z-index: 2;
 	mix-blend-mode: normal;
 }
 
-#img_I27215133751575 {
-	width: 128px;
-	height: 20px;
+#img_I27215133761823 {
+	width: 330px;
+	height: 250px;
 }
 
-#img_I27215133751575.bnfy-enter {
-	-webkit-animation: none 1000ms 0ms ease 1 both;
-	animation: none 1000ms 0ms ease 1 both;
-}
-
-#el_I27215133751573 {
-	top: 14px;
-	left: 180px;
-	z-index: 3;
-	mix-blend-mode: normal;
-}
-
-#img_I27215133751573 {
-	width: 150px;
-	height: 236px;
-}
-
-#img_I27215133751573.bnfy-enter {
+#img_I27215133761823.bnfy-enter {
 	-webkit-animation: custom-slide 15000ms 0ms ease 1 both;
 	animation: custom-slide 15000ms 0ms ease 1 both;
 }
 
-#el_I27215133751574 {
-	top: 0px;
-	left: 143px;
+#el_I27215133761824 {
+	top: 14px;
+	left: 0px;
+	z-index: 3;
+	mix-blend-mode: normal;
+}
+
+#img_I27215133761824 {
+	width: 185px;
+	height: 236px;
+}
+
+#img_I27215133761824.bnfy-enter {
+	-webkit-animation: fade-in 1000ms 0ms ease 1 both;
+	animation: fade-in 1000ms 0ms ease 1 both;
+}
+
+#el_I27215133761825 {
+	top: 230px;
+	left: 0px;
 	z-index: 4;
 	mix-blend-mode: normal;
 }
 
-#img_I27215133751574 {
-	width: 157px;
-	height: 250px;
+#img_I27215133761825 {
+	width: 125px;
+	height: 20px;
 }
 
-#img_I27215133751574.bnfy-enter {
+#img_I27215133761825.bnfy-enter {
 	-webkit-animation: none 1000ms 0ms ease 1 both;
 	animation: none 1000ms 0ms ease 1 both;
 }
 
-#el_I27215133751576 {
-	top: 62px;
-	left: 185px;
+#el_I27215133761826 {
+	top: -22px;
+	left: 190px;
 	z-index: 5;
 	mix-blend-mode: overlay;
 }
 
-#img_I27215133751576 {
+#img_I27215133761826 {
 	width: 181px;
 	height: 181px;
 }
 
-#img_I27215133751576.bnfy-enter {
+#img_I27215133761826.bnfy-enter {
 	-webkit-animation: custom-rotate 15000ms 0ms ease 1 both;
 	animation: custom-rotate 15000ms 0ms ease 1 both;
 }
 
-#el_I27215133751578 {
-	top: 56.39999771118164px;
+#el_I27215133761828 {
+	top: 55.39999771118164px;
 	left: 10.360000610351562px;
 	z-index: 6;
 	mix-blend-mode: normal;
 }
 
-#img_I27215133751578 {
+#img_I27215133761828 {
 	width: 124px;
 	height: 39px;
 }
 
-#img_I27215133751578.bnfy-enter {
+#img_I27215133761828.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 500ms ease 1 both;
 	animation: fade-in 1000ms 500ms ease 1 both;
 }
 
-#el_I27215133751579 {
-	top: 106.11599731445312px;
+#el_I27215133761829 {
+	top: 105.11599731445312px;
 	left: 10.573997497558594px;
 	z-index: 7;
 	mix-blend-mode: normal;
 }
 
-#img_I27215133751579 {
+#img_I27215133761829 {
 	width: 158px;
 	height: 53px;
 }
 
-#img_I27215133751579.bnfy-enter {
+#img_I27215133761829.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 700ms ease 1 both;
 	animation: fade-in 1000ms 700ms ease 1 both;
 }
 
-#el_I27215133751580 {
-	top: 166px;
+#el_I27215133761830 {
+	top: 165px;
 	left: 10px;
 	z-index: 8;
 	mix-blend-mode: normal;
 }
 
-#img_I27215133751580 {
+#img_I27215133761830 {
 	width: 100px;
 	height: 23px;
 }
 
-#img_I27215133751580.bnfy-enter {
+#img_I27215133761830.bnfy-enter {
 	-webkit-animation: fade-in 1000ms 1000ms ease 1 both, simple-hide 0ms 9000ms both;
 	animation: fade-in 1000ms 1000ms ease 1 both, simple-hide 0ms 9000ms both;
 }
 
-#img_I27215133751580.bnfy-exit {
+#img_I27215133761830.bnfy-exit {
 	-webkit-animation: pulsate-fwd 1000ms 9000ms ease 1 both, simple-show 0ms 9000ms both;
 	animation: pulsate-fwd 1000ms 9000ms ease 1 both, simple-show 0ms 9000ms both;
 }
 
-#el_I27215133751582 {
-	top: 0px;
-	left: 0px;
+#el_I27215133761832 {
+	top: 29px;
+	left: 10px;
 	z-index: 9;
 	mix-blend-mode: normal;
 }
 
-#img_I27215133751582 {
-	width: 130px;
-	height: 42px;
-}
-
-#img_I27215133751582.bnfy-enter {
-	-webkit-animation: fade-in-left 500ms 0ms ease 1 both;
-	animation: fade-in-left 500ms 0ms ease 1 both;
-}
-
-#el_I27215133751583 {
-	top: 15px;
-	left: 20px;
-	z-index: 10;
-	mix-blend-mode: normal;
-}
-
-#img_I27215133751583 {
+#img_I27215133761832 {
 	width: 90px;
 	height: 12px;
 }
 
-#img_I27215133751583.bnfy-enter {
+#img_I27215133761832.bnfy-enter {
 	-webkit-animation: fade-in-left 500ms 100ms ease 1 both;
 	animation: fade-in-left 500ms 100ms ease 1 both;
 }
@@ -213,7 +196,7 @@ html {
 #el_I27215143022 {
 	top: 0px;
 	left: 0px;
-	z-index: 11;
+	z-index: 10;
 	mix-blend-mode: normal;
 }
 
@@ -235,7 +218,7 @@ html {
 #el_I27215143023 {
 	top: 83px;
 	left: 76px;
-	z-index: 12;
+	z-index: 11;
 	mix-blend-mode: normal;
 }
 
@@ -257,7 +240,7 @@ html {
 #el_I2721514302139 {
 	top: 128px;
 	left: 77.5px;
-	z-index: 13;
+	z-index: 12;
 	mix-blend-mode: normal;
 }
 
