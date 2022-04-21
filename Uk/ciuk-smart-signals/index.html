@@ -1,11 +1,12 @@
 <html>
 <head>
-	<title>SMART Signals</title>
+	<title>SMART Signals [DUPLICATE THIS] (Do not adjust)</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body class="no-js">
 	
 	<button class="replay-button" type="button" onClick="resetAnimations();"></button>
+	<div id="adblocker" class="adblocker">It looks like you're using an ad blocker, which <em>may</em> cause some banner previews to break or not show up properly.</div>
 	<div id="grid" class="grid">
 		<div class="col">
 			<div class="wrapper" style="width: 728px; height: 90px; background-color: #ffffff;"><h6 class="heading" style="width: 728px;">728x90</h6>
@@ -62,21 +63,12 @@
 					frameBorder="0"></iframe></div>
 		</div>
 		<div class="col">
-			<div class="wrapper" style="width: 320px; height: 100px; background-color: #ffffff;"><h6 class="heading" style="width: 320px;">320x100</h6>
+			<div class="wrapper" style="width: 486px; height: 60px; background-color: #ffffff;"><h6 class="heading" style="width: 486px;">486x60</h6>
 				<iframe
-					title="320x100 320x100-SG-only"
-					width="320"
-					height="100"
-					src="banners/320x100-sg-only/index.html"
-					frameBorder="0"></iframe></div>
-		</div>
-		<div class="col">
-			<div class="wrapper" style="width: 970px; height: 90px; background-color: #ffffff;"><h6 class="heading" style="width: 970px;">970x90</h6>
-				<iframe
-					title="970x90 970x90-SG-only"
-					width="970"
-					height="90"
-					src="banners/970x90-sg-only/index.html"
+					title="486x60 468x60"
+					width="486"
+					height="60"
+					src="banners/486x60_468x60/index.html"
 					frameBorder="0"></iframe></div>
 		</div>
 	</div>
@@ -150,7 +142,25 @@
 			display: none;
 		}
 		
-		
+		.adblocker {
+			display: none;
+			position: fixed;
+			right: 20px;
+			bottom: 20px;
+			background-color: orange;
+			padding: 10px;
+			font-family: 'Helvetica', 'Arial', sans-serif;
+			font-size: 14px;
+			border-radius: 4px;
+			color: #ffffff;
+			z-index: 3;
+			box-shadow:
+			0 2px 2.7px rgba(0, 0, 0, 0.012),
+			0 5px 6.9px rgba(0, 0, 0, 0.018),
+			0 10.3px 14.2px rgba(0, 0, 0, 0.022),
+			0 21.2px 29.2px rgba(0, 0, 0, 0.028),
+			0 58px 80px rgba(0, 0, 0, 0.04);
+		}
 		.no-js .col {
 			display: inline-block;
 			vertical-align: top;
@@ -168,6 +178,36 @@
 			var msnry = new Masonry(elem, {
 				itemSelector: ".col",
 				gutter: 20
+			});
+		}
+	</script>
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', init, false);
+		
+		function init(){
+			adsBlocked(function(blocked){
+				if(blocked){
+					document.getElementById('adblocker').style.display = 'block';
+				}
+			})
+		}
+		
+		function adsBlocked(callback){
+			var testURL = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
+			
+			var init = {
+				method: 'HEAD',
+				mode: 'no-cors'
+			};
+			
+			var myRequest = new Request(testURL, init);
+			
+			fetch(myRequest).then(function(response) {
+				return response;
+			}).then(function(response) {
+				callback(false)
+			}).catch(function(e){
+				callback(true)
 			});
 		}
 	</script>
