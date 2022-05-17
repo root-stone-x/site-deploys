@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>SMART Signals [DUPLICATE THIS] (Do not adjust)</title>
+	<title>SMART Signals</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body class="no-js">
@@ -60,15 +60,6 @@
 					width="320"
 					height="50"
 					src="banners/320x50/index.html"
-					frameBorder="0"></iframe></div>
-		</div>
-		<div class="col">
-			<div class="wrapper" style="width: 486px; height: 60px; background-color: #ffffff;"><h6 class="heading" style="width: 486px;">486x60</h6>
-				<iframe
-					title="486x60 468x60"
-					width="486"
-					height="60"
-					src="banners/486x60_468x60/index.html"
 					frameBorder="0"></iframe></div>
 		</div>
 	</div>
@@ -171,6 +162,21 @@
 	
 	<script type="text/javascript">
 		document.body.className = "js";
+		
+		const inViewObserver = new IntersectionObserver(entries => {
+			entries.forEach(entry => {
+				if (entry.isIntersecting) {
+					entry.target.src += '';
+				}
+			})
+		}, { threshold: 0 })
+		
+		var frames = document.getElementsByTagName('iframe');
+		for (var i in frames) {
+			var frame = frames[i];
+			inViewObserver.observe(frame);
+		}
+		
 	</script><script type="text/javascript" src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 	<script type="text/javascript">
 		if (window.Masonry) {
