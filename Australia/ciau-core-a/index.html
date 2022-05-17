@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>CORE A</title>
+	<title>MKGDESIGN-766 CORE A</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body class="no-js">
@@ -171,6 +171,21 @@
 	
 	<script type="text/javascript">
 		document.body.className = "js";
+		
+		const inViewObserver = new IntersectionObserver(entries => {
+			entries.forEach(entry => {
+				if (entry.isIntersecting) {
+					entry.target.src += '';
+				}
+			})
+		}, { threshold: 0 })
+		
+		var frames = document.getElementsByTagName('iframe');
+		for (var i in frames) {
+			var frame = frames[i];
+			inViewObserver.observe(frame);
+		}
+		
 	</script><script type="text/javascript" src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 	<script type="text/javascript">
 		if (window.Masonry) {
