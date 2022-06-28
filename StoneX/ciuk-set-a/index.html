@@ -173,8 +173,12 @@
 		
 		var frames = document.getElementsByTagName('iframe');
 		for (var i in frames) {
-			var frame = frames[i];
-			inViewObserver.observe(frame);
+			try {
+				var frame = frames[i];
+				inViewObserver.observe(frame);
+			} catch(e) {
+				console.log(e);
+			}
 		}
 		
 	</script><script type="text/javascript" src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
