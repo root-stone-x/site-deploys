@@ -1,1 +1,69 @@
-<svg width="970" height="250" viewBox="0 0 970 250" fill="none" xmlns="http://www.w3.org/2000/svg"><mask id="a" maskUnits="userSpaceOnUse" x="0" y="0" width="970" height="250"><path fill="url(#paint0_linear_901_304)" d="M0 0h970v250H0z"/></mask><g mask="url(#a)"><path fill="#000" d="M0 0h970v250H0z"/></g><defs><linearGradient id="paint0_linear_901_304" x1="236.5" y1="9.5" x2="614.771" y2="228.938" gradientUnits="userSpaceOnUse"><stop stop-color="#C4C4C4"/><stop offset="1" stop-color="#C4C4C4" stop-opacity="0"/></linearGradient></defs></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 970 250" style="enable-background:new 0 0 970 250;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{mask:url(#a_00000092458774663012859980000000730070933086689725_);}
+	
+		.st2{fill:url(#SVGID_00000090993079632311385590000003026224422223860407_);filter:url(#Adobe_OpacityMaskFilter_00000015357185437434162540000015070135181377621181_);}
+	.st3{mask:url(#a_00000072986056569558067950000008304841649979838094_);}
+	
+		.st4{fill:url(#SVGID_00000098214237614752977720000014393960448626133182_);filter:url(#Adobe_OpacityMaskFilter_00000148655886357828294720000002786107029047326341_);}
+	.st5{mask:url(#a_00000048484091270013991060000012632482015175177120_);}
+</style>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="970" height="250">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="0" y="0" width="970" height="250" id="a_00000092458774663012859980000000730070933086689725_">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="248.9383" y1="261.8313" x2="627.2093" y2="42.3933" gradientTransform="matrix(1 0 0 -1 0 249.89)">
+		<stop  offset="0" style="stop-color:#C4C4C4"/>
+		<stop  offset="1" style="stop-color:#C4C4C4;stop-opacity:0"/>
+	</linearGradient>
+	<path class="st0" d="M0,0h970v250H0V0z"/>
+</mask>
+<g class="st1">
+	<path d="M0,0h970v250H0V0z"/>
+</g>
+<defs>
+	
+		<filter id="Adobe_OpacityMaskFilter_00000132071645977717605300000008724501422497714565_" filterUnits="userSpaceOnUse" x="0" y="0" width="970" height="250">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="0" y="0" width="970" height="250" id="a_00000072986056569558067950000008304841649979838094_">
+	
+		<linearGradient id="SVGID_00000009570390913487466140000003204301062485275536_" gradientUnits="userSpaceOnUse" x1="248.9383" y1="261.8313" x2="627.2093" y2="42.3933" gradientTransform="matrix(1 0 0 -1 0 249.89)">
+		<stop  offset="0" style="stop-color:#C4C4C4"/>
+		<stop  offset="1" style="stop-color:#C4C4C4;stop-opacity:0"/>
+	</linearGradient>
+	
+		<path style="fill:url(#SVGID_00000009570390913487466140000003204301062485275536_);filter:url(#Adobe_OpacityMaskFilter_00000132071645977717605300000008724501422497714565_);" d="
+		M0,0h970v250H0V0z"/>
+</mask>
+<g class="st3">
+	<path d="M0,0h970v250H0V0z"/>
+</g>
+<defs>
+	
+		<filter id="Adobe_OpacityMaskFilter_00000167395652805615956290000004338807885658423467_" filterUnits="userSpaceOnUse" x="0" y="0" width="970" height="250">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="0" y="0" width="970" height="250" id="a_00000048484091270013991060000012632482015175177120_">
+	
+		<linearGradient id="SVGID_00000025404434659622961070000002978060534845317252_" gradientUnits="userSpaceOnUse" x1="248.9383" y1="261.8313" x2="627.2093" y2="42.3933" gradientTransform="matrix(1 0 0 -1 0 249.89)">
+		<stop  offset="0" style="stop-color:#C4C4C4"/>
+		<stop  offset="1" style="stop-color:#C4C4C4;stop-opacity:0"/>
+	</linearGradient>
+	
+		<path style="fill:url(#SVGID_00000025404434659622961070000002978060534845317252_);filter:url(#Adobe_OpacityMaskFilter_00000167395652805615956290000004338807885658423467_);" d="
+		M0,0h970v250H0V0z"/>
+</mask>
+<g class="st5">
+	<path d="M0,0h970v250H0V0z"/>
+</g>
+</svg>

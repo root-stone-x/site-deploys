@@ -1,1 +1,47 @@
-<svg width="728" height="90" viewBox="0 0 728 90" fill="none" xmlns="http://www.w3.org/2000/svg"><mask id="a" maskUnits="userSpaceOnUse" x="0" y="0" width="728" height="90"><path fill="url(#paint0_linear_901_325)" d="M0 0h728v90H0z"/></mask><g mask="url(#a)"><path fill="#000" d="M-219.243-57.361h1042.64v217.733h-1042.64z"/></g><defs><linearGradient id="paint0_linear_901_325" x1="320.5" y1="18" x2="425.98" y2="120.991" gradientUnits="userSpaceOnUse"><stop stop-color="#C4C4C4"/><stop offset="1" stop-color="#C4C4C4" stop-opacity="0"/></linearGradient></defs></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 728 90" style="enable-background:new 0 0 728 90;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{mask:url(#a_00000085239240339801825850000007917431491514390936_);}
+	
+		.st2{fill:url(#SVGID_00000067931679778299930500000002265989181979970214_);filter:url(#Adobe_OpacityMaskFilter_00000067230925342076579800000015285787044330098608_);}
+	.st3{mask:url(#a_00000181086875504511175220000007220004041868177562_);}
+</style>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-219.2" y="-57.4" width="1042.6" height="217.7">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="-219.2" y="-57.4" width="1042.6" height="217.7" id="a_00000085239240339801825850000007917431491514390936_">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="328.2346" y1="79.8115" x2="433.7146" y2="-23.1795" gradientTransform="matrix(1 0 0 -1 0 89.89)">
+		<stop  offset="0" style="stop-color:#C4C4C4"/>
+		<stop  offset="1" style="stop-color:#C4C4C4;stop-opacity:0"/>
+	</linearGradient>
+	<path class="st0" d="M0,0h728v90H0V0z"/>
+</mask>
+<g class="st1">
+	<path d="M-219.2-57.4H823.4v217.7H-219.2L-219.2-57.4z"/>
+</g>
+<defs>
+	
+		<filter id="Adobe_OpacityMaskFilter_00000089542751116742229310000015630967183454289583_" filterUnits="userSpaceOnUse" x="-219.2" y="-57.4" width="1042.6" height="217.7">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="-219.2" y="-57.4" width="1042.6" height="217.7" id="a_00000181086875504511175220000007220004041868177562_">
+	
+		<linearGradient id="SVGID_00000130611427489130673970000010331097113920954525_" gradientUnits="userSpaceOnUse" x1="328.2346" y1="79.8115" x2="433.7146" y2="-23.1795" gradientTransform="matrix(1 0 0 -1 0 89.89)">
+		<stop  offset="0" style="stop-color:#C4C4C4"/>
+		<stop  offset="1" style="stop-color:#C4C4C4;stop-opacity:0"/>
+	</linearGradient>
+	
+		<path style="fill:url(#SVGID_00000130611427489130673970000010331097113920954525_);filter:url(#Adobe_OpacityMaskFilter_00000089542751116742229310000015630967183454289583_);" d="
+		M0,0h728v90H0V0z"/>
+</mask>
+<g class="st3">
+	<path d="M-219.2-57.4H823.4v217.7H-219.2L-219.2-57.4z"/>
+</g>
+</svg>
